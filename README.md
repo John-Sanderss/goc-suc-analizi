@@ -15,7 +15,7 @@ Avrupa ülkelerinde **göç verileri** ile **suç oranları** arasındaki ilişk
 - Suç verileri: Eurostat – <https://ec.europa.eu/eurostat/web/crime/database>  
 - Göç verileri: OECD – <https://www.oecd.org/en/data/datasets/database-on-immigrants-in-oecd-and-non-oecd-countries.html>
 
-> Not: Telif/kullanım koşulları nedeniyle tam veri paylaşılmamıştır. Proje “`data/merged_goc_suc.csv`” dosyasını bekler. İsterseniz küçük bir örnek CSV ekleyin ve yukarıdaki kaynaklara yönlendirin.
+> Not: Telif/kullanım koşulları nedeniyle tam veri paylaşılmamıştır. Proje için “`data/merged_goc_suc.csv`” dosyası gereklidir. İsterseniz yukardaki kaynaklardan verilere ulaşıp bir csv dosyası oluşturabilirsiniz.
 
 **Modeller**
 - **RF (scikit-learn)**:  
