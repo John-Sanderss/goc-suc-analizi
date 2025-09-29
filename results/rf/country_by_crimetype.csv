@@ -1,0 +1,292 @@
+Ülke,Suç Türü,R2 Skoru
+Austria,Assault,0.8160325751685142
+Austria,Corruption,0.7397897429645764
+Austria,Cybercrime,0.7381244465557892
+Austria,Drug offences,0.8708457849384663
+Austria,Fraud,0.8228060157918782
+Austria,Homicide,0.9019960609485784
+Austria,Kidnapping,0.9063255810777344
+Austria,Money laundering,0.7621071859552208
+Austria,Organized crime,0.84815708941348
+Austria,Rape,0.8880691834364595
+Austria,Robbery,0.9093901994485232
+Austria,Sexual violence,0.7692060274860022
+Austria,Theft,0.8479067116371218
+Belgium,Assault,0.786758506630516
+Belgium,Corruption,0.6459796387086677
+Belgium,Cybercrime,0.7964763392464868
+Belgium,Drug offences,0.6265074589474092
+Belgium,Fraud,0.7592092092611947
+Belgium,Homicide,0.9067086749440031
+Belgium,Kidnapping,0.8459815858793474
+Belgium,Money laundering,0.7986525780848939
+Belgium,Organized crime,0.7234880533355188
+Belgium,Rape,0.804830075185969
+Belgium,Robbery,0.8180505778032385
+Belgium,Sexual violence,0.8066729503478909
+Belgium,Theft,0.8020598693154235
+Czechia,Assault,0.8552803630246951
+Czechia,Corruption,0.6169611387757985
+Czechia,Cybercrime,0.9536243647642962
+Czechia,Drug offences,0.9064794538697832
+Czechia,Fraud,0.804705818404695
+Czechia,Homicide,0.7405102999454746
+Czechia,Kidnapping,0.8691111504489724
+Czechia,Money laundering,0.5578919458041673
+Czechia,Organized crime,0.9130754509921262
+Czechia,Rape,0.9023887367007067
+Czechia,Robbery,0.8291567723150122
+Czechia,Sexual violence,0.9597847216440948
+Czechia,Theft,0.8504443497135513
+Denmark,Assault,0.7656971023627618
+Denmark,Corruption,0.6002763354996496
+Denmark,Drug offences,0.885143458005417
+Denmark,Fraud,0.6977006237962012
+Denmark,Homicide,0.8005452584373068
+Denmark,Money laundering,0.8973591678820467
+Denmark,Rape,0.7543833422087376
+Denmark,Robbery,0.8359395067574702
+Denmark,Sexual violence,0.7556177418500643
+Denmark,Theft,0.8423704292433754
+Estonia,Assault,0.8734650247694258
+Estonia,Corruption,0.914403353164015
+Estonia,Cybercrime,0.9244494384871033
+Estonia,Drug offences,0.8774206717904707
+Estonia,Fraud,0.8894425835073511
+Estonia,Homicide,0.8673039878516084
+Estonia,Money laundering,0.735372656284152
+Estonia,Organized crime,0.8941354302322354
+Estonia,Rape,0.7455070481007765
+Estonia,Robbery,0.9507416502082996
+Estonia,Sexual violence,0.9244884764088946
+Estonia,Theft,0.9015728117356242
+Finland,Assault,0.8240036371496874
+Finland,Corruption,0.7218429748015613
+Finland,Cybercrime,0.8533110452986141
+Finland,Drug offences,0.7815151185511499
+Finland,Fraud,0.7982815160137491
+Finland,Homicide,0.7772771772448501
+Finland,Kidnapping,0.7358406741230072
+Finland,Money laundering,0.8231745992682997
+Finland,Organized crime,0.8761144806439776
+Finland,Rape,0.8288834900971644
+Finland,Robbery,0.8884123276957359
+Finland,Sexual violence,0.863430722905834
+Finland,Theft,0.6690884966243518
+France,Assault,0.9149363327902542
+France,Corruption,0.875574931054521
+France,Cybercrime,0.8660405319164541
+France,Drug offences,0.8749165387666317
+France,Fraud,0.8544836930467565
+France,Homicide,0.8760889008129457
+France,Kidnapping,0.8834869510899893
+France,Money laundering,0.8915136554663219
+France,Organized crime,0.889039186521321
+France,Rape,0.8904829918863778
+France,Robbery,0.8784965159326132
+France,Sexual violence,0.8984078962835476
+France,Theft,0.8674368634252162
+Germany,Assault,0.8088204456897155
+Germany,Corruption,0.6384373965180792
+Germany,Cybercrime,0.7145364410285435
+Germany,Drug offences,0.7935571495386179
+Germany,Fraud,0.6728629778779447
+Germany,Homicide,0.7294820311046725
+Germany,Kidnapping,0.7204815568873647
+Germany,Money laundering,0.7552950306140029
+Germany,Organized crime,0.7011804424468963
+Germany,Rape,0.8452252424766145
+Germany,Robbery,0.8644600430992676
+Germany,Sexual violence,0.8155590953502694
+Germany,Theft,0.8759153665860242
+Greece,Assault,0.8336440073714391
+Greece,Corruption,0.7149453931583902
+Greece,Cybercrime,0.8611511869386355
+Greece,Drug offences,0.8529821339482015
+Greece,Fraud,0.7572290434766266
+Greece,Homicide,0.900118084712802
+Greece,Kidnapping,0.7831840043277343
+Greece,Money laundering,0.7947335896929505
+Greece,Organized crime,0.8591901886668987
+Greece,Rape,0.7958755389637087
+Greece,Robbery,0.8907705383145275
+Greece,Sexual violence,0.8239699039935942
+Greece,Theft,0.8648330964791878
+Hungary,Assault,0.908791513091224
+Hungary,Corruption,0.8435929526773951
+Hungary,Cybercrime,0.9608526348363358
+Hungary,Drug offences,0.8952654466467569
+Hungary,Fraud,0.7857098158840419
+Hungary,Homicide,0.8888137623919042
+Hungary,Kidnapping,0.6602871010638305
+Hungary,Money laundering,0.8908179593272993
+Hungary,Rape,0.7675702443464902
+Hungary,Robbery,0.9419928051006312
+Hungary,Sexual violence,0.7717028123888233
+Hungary,Theft,0.9623896183715721
+Iceland,Assault,0.7971896184742285
+Iceland,Drug offences,0.7868334127300338
+Iceland,Fraud,0.851244489945274
+Iceland,Homicide,0.8607908334770301
+Iceland,Money laundering,0.814165885318103
+Iceland,Rape,0.9048124746428965
+Iceland,Robbery,0.7037507172373585
+Iceland,Sexual violence,0.9005647613139101
+Iceland,Theft,0.8237901584275713
+Ireland,Assault,0.9003320482725388
+Ireland,Corruption,0.8403757390087131
+Ireland,Cybercrime,0.7912999480534546
+Ireland,Drug offences,0.7645703584409398
+Ireland,Fraud,0.7943540283749513
+Ireland,Homicide,0.6094981817935194
+Ireland,Kidnapping,0.6451757837595795
+Ireland,Money laundering,0.7565117732611122
+Ireland,Rape,0.8280679707581506
+Ireland,Robbery,0.7729876713589073
+Ireland,Sexual violence,0.8290874347128552
+Ireland,Theft,0.7367084322065233
+Italy,Assault,0.8008792311888935
+Italy,Corruption,0.822553584342096
+Italy,Cybercrime,0.8382448045350992
+Italy,Drug offences,0.8912336716620629
+Italy,Fraud,0.8135960441867749
+Italy,Homicide,0.8284422280935884
+Italy,Kidnapping,0.8275199735089893
+Italy,Money laundering,0.8924408141121509
+Italy,Organized crime,0.8554065194885523
+Italy,Robbery,0.797489254340769
+Italy,Sexual violence,0.8439744137427757
+Italy,Theft,0.8267471023719676
+Latvia,Assault,0.8069904115762633
+Latvia,Corruption,0.8690006968004629
+Latvia,Cybercrime,0.9171602919984505
+Latvia,Drug offences,0.8222721039236622
+Latvia,Fraud,0.8864906661290476
+Latvia,Homicide,0.8572318734405493
+Latvia,Kidnapping,0.8333811793119041
+Latvia,Money laundering,0.8439703082299204
+Latvia,Rape,0.8804198669676454
+Latvia,Robbery,0.8932045843625666
+Latvia,Sexual violence,0.8279971941916369
+Latvia,Theft,0.8983678818147205
+Lithuania,Assault,0.9746288104714481
+Lithuania,Corruption,0.8809636258479061
+Lithuania,Cybercrime,0.9104868518955161
+Lithuania,Drug offences,0.8942900048452055
+Lithuania,Fraud,0.9173277255049703
+Lithuania,Homicide,0.9708327055313882
+Lithuania,Kidnapping,0.8587642857142861
+Lithuania,Money laundering,0.8774433560203683
+Lithuania,Organized crime,0.8378186875774031
+Lithuania,Rape,0.9581623751389566
+Lithuania,Robbery,0.9775508218814931
+Lithuania,Sexual violence,0.9284570588314043
+Lithuania,Theft,0.9602270793196267
+Luxembourg,Assault,0.6639545303401078
+Luxembourg,Corruption,0.7603160518587117
+Luxembourg,Drug offences,0.7546626799267586
+Luxembourg,Fraud,0.8818038593633455
+Luxembourg,Homicide,0.899636955669713
+Luxembourg,Kidnapping,0.8136557081101219
+Luxembourg,Organized crime,0.8206469479759821
+Luxembourg,Rape,0.8592450171281932
+Luxembourg,Robbery,0.728510175906135
+Luxembourg,Sexual violence,0.7667417852914271
+Luxembourg,Theft,0.9108053372457765
+Netherlands,Assault,0.9192216689765913
+Netherlands,Corruption,0.8691159557847318
+Netherlands,Cybercrime,0.7523927928206839
+Netherlands,Drug offences,0.823330167772204
+Netherlands,Fraud,0.8060500000000002
+Netherlands,Homicide,0.674496224231814
+Netherlands,Kidnapping,0.7956968487235209
+Netherlands,Money laundering,0.8064324687662235
+Netherlands,Rape,0.9013674799089035
+Netherlands,Robbery,0.8204788127766878
+Netherlands,Sexual violence,0.91672522421523
+Netherlands,Theft,0.8224060496953292
+Norway,Assault,0.8323952619319397
+Norway,Corruption,0.7961318007207452
+Norway,Drug offences,0.8560664028987893
+Norway,Fraud,0.7982219464621445
+Norway,Homicide,0.8463418522169726
+Norway,Money laundering,0.8279447146065967
+Norway,Rape,0.8302771321450878
+Norway,Robbery,0.8215596491871453
+Norway,Sexual violence,0.8019924233423182
+Norway,Theft,0.8958723947217189
+Poland,Assault,0.9481537887602273
+Poland,Corruption,0.8060724717070278
+Poland,Cybercrime,0.9485385976954106
+Poland,Drug offences,0.8787195081807926
+Poland,Fraud,0.903013920030271
+Poland,Homicide,0.8829840743582377
+Poland,Kidnapping,0.8435099784358152
+Poland,Money laundering,0.9208968379529825
+Poland,Organized crime,0.9169731056330682
+Poland,Rape,0.8605666893245358
+Poland,Robbery,0.9514517950099219
+Poland,Sexual violence,0.7825896205710023
+Poland,Theft,0.9314118020737827
+Portugal,Assault,0.9223003983430272
+Portugal,Corruption,0.8933763185567191
+Portugal,Cybercrime,0.9439402988325455
+Portugal,Drug offences,0.8433557835263951
+Portugal,Fraud,0.9443910523314151
+Portugal,Homicide,0.8156996421881264
+Portugal,Kidnapping,0.8788027675628459
+Portugal,Money laundering,0.9547596367365179
+Portugal,Organized crime,0.8411289473684219
+Portugal,Rape,0.870270657990239
+Portugal,Robbery,0.9522710179338588
+Portugal,Sexual violence,0.8963024037398712
+Portugal,Theft,0.9147858848469346
+Slovenia,Assault,0.9162480376257033
+Slovenia,Corruption,0.73739037410064
+Slovenia,Cybercrime,0.8063186310813845
+Slovenia,Drug offences,0.8556004059534159
+Slovenia,Fraud,0.8225884976290082
+Slovenia,Homicide,0.7844997939223919
+Slovenia,Kidnapping,0.7035195449118092
+Slovenia,Money laundering,0.8444047679685884
+Slovenia,Organized crime,0.7675520578009313
+Slovenia,Rape,0.8746118237873626
+Slovenia,Robbery,0.7462632401405241
+Slovenia,Sexual violence,0.8241252959488466
+Slovenia,Theft,0.8000360876866609
+Spain,Assault,0.709620599128729
+Spain,Corruption,0.9101171381136866
+Spain,Cybercrime,0.9749766259127534
+Spain,Drug offences,0.9101860008189545
+Spain,Fraud,0.9583974462559218
+Spain,Homicide,0.9290722078686796
+Spain,Kidnapping,0.9355455607166706
+Spain,Money laundering,0.9480314507142161
+Spain,Organized crime,0.9384871993494813
+Spain,Rape,0.9678367166182585
+Spain,Robbery,0.7859522333137146
+Spain,Sexual violence,0.9621129785441186
+Spain,Theft,0.7430115708881356
+Sweden,Assault,0.7607064200261386
+Sweden,Corruption,0.788363795898297
+Sweden,Cybercrime,0.8165433740834994
+Sweden,Drug offences,0.9356987108195194
+Sweden,Fraud,0.750994093768935
+Sweden,Homicide,0.9202447896949376
+Sweden,Money laundering,0.9151444895571298
+Sweden,Rape,0.9210364285568864
+Sweden,Robbery,0.8143626870874442
+Sweden,Sexual violence,0.8915341759915355
+Sweden,Theft,0.8394023436584777
+Switzerland,Assault,0.8468650119823503
+Switzerland,Corruption,0.787058208340516
+Switzerland,Drug offences,0.8419229035602617
+Switzerland,Fraud,0.8901462922542364
+Switzerland,Homicide,0.8763145069892524
+Switzerland,Kidnapping,0.7877356776392039
+Switzerland,Money laundering,0.8304416701730868
+Switzerland,Organized crime,0.8159570941166783
+Switzerland,Rape,0.8610435018183553
+Switzerland,Robbery,0.7430237577342838
+Switzerland,Sexual violence,0.8011848242087315
+Switzerland,Theft,0.9054603328919121
